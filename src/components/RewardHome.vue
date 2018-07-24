@@ -18,6 +18,9 @@
 
     <div class="End">  <!--此部分为顶部部分End-->
 
+      <div class ="EndCopyright">
+
+      </div>
     </div>
   </div>
 </template>
@@ -76,5 +79,14 @@
   {
     height :394px;
     width :1920px;
+  }
+
+  .EndCopyright
+  {
+    position: relative;
+    top: 337px;
+    height :57px;
+    width :1920px;
+    background-color: #494949;
   }
 </style>

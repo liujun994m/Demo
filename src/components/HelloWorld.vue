@@ -3,11 +3,7 @@
     <h1>{{ msg }}</h1>
     <ul>
       <li>
-        <a
-          href="/api/untitled/index.html"
-        >
-          斐讯打赏
-        </a>
+        <router-link to = "RewardHome">斐讯打赏</router-link>
       </li>
     </ul>
   </div>

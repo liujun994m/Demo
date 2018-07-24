@@ -14,7 +14,7 @@ export default new Router({
       component: HelloWorld
     },
     {
-      path: '/',
+      path: '/RewardHome',
       name: 'RewardHome',
       component: RewardHome
     }
